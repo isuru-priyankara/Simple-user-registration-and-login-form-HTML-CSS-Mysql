@@ -1,6 +1,9 @@
 # Simple-user-registration-and-login-form-HTML-CSS-Mysql
 Simple user registration and login form (HTML,CSS,Mysql)
+
 Database Name--LoginSystem
+
+Tabale Name--users
 
 
 CREATE TABLE IF NOT EXISTS `users` (
